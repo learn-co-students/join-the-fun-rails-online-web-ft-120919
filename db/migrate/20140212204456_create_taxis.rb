@@ -5,3 +5,7 @@ class CreateTaxis < ActiveRecord::Migration
     end
   end
 end
+
+# create_join_table :posts, :tags
+# rails g migration create_join_table :passengers, :rides
+# rails g migration create_passengers_rides
