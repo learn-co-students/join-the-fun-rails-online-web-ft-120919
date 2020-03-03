@@ -1,0 +1,2 @@
+class PassengerTaxisController < ApplicationController
+end
