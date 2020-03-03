@@ -1,0 +1,2 @@
+module PassengerTaxisHelper
+end
